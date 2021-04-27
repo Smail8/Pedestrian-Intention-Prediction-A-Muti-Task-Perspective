@@ -1,4 +1,4 @@
-# Pedestrian Intention Forecasting: A Future Bounding Box Prediction Approach
+# Pedestrian Intention Prediction: A Multitask Perspective
 
 Paper published in the hEART conference 2020 : https://arxiv.org/abs/2010.10270
 
